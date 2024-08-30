@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('../font/iconfont_bofanjiemina.ttf?t=1667656603971') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-31xiala:before {
+  content: "\f0221";
+}
+
+.icon-yinpinaudio47:before {
+  content: "\e714";
+}
+
+.icon-xihuan-xianxing:before {
+  content: "\e8c3";
+}
+
+.icon-gengduo-shuxiang:before {
+  content: "\e8c4";
+}
+
+.icon-fenxiang:before {
+  content: "\e86e";
+}
+
+.icon-changge:before {
+  content: "\e895";
+}
+
+.icon-touping:before {
+  content: "\e7de";
+}
+
+.icon-yunxiazai_o:before {
+  content: "\ebb4";
+}
+
+.icon-jianyi:before {
+  content: "\e6d3";
+}
+
+.icon-24gl-next:before {
+  content: "\ea6b";
+}
+
+.icon-24gl-previous:before {
+  content: "\ea73";
+}
+
